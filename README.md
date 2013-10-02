@@ -1,4 +1,4 @@
 RACBugTest
 ==========
 
-A bug test for ReactiveCocoa
+A bug test for ReactiveCocoa (open with **RACBugTest.xcworkspace**)

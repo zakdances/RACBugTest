@@ -1,0 +1,24 @@
+PODS:
+  - MGit (0.0.1)
+  - ReactiveCocoa (2.1):
+    - ReactiveCocoa/Core
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/Core (2.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.1)
+
+DEPENDENCIES:
+  - MGit (from `./submodules/MGit`)
+  - ReactiveCocoa (from `./submodules/ReactiveCocoa`)
+
+EXTERNAL SOURCES:
+  MGit:
+    :path: ./submodules/MGit
+  ReactiveCocoa:
+    :path: ./submodules/ReactiveCocoa
+
+SPEC CHECKSUMS:
+  MGit: 04ae761145c565a40f72ea1cb4f53ed5ada6c2be
+  ReactiveCocoa: 342bf73d1b20bb578e79d8b6372dd3c6e1f88e86
+
+COCOAPODS: 0.25.0

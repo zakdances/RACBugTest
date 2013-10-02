@@ -1,0 +1,6 @@
+[submodule "RACBugTest/submodules/ReactiveCocoa"]
+	path = RACBugTest/submodules/ReactiveCocoa
+	url = https://github.com/ReactiveCocoa/ReactiveCocoa.git
+[submodule "RACBugTest/submodules/MGit"]
+	path = RACBugTest/submodules/MGit
+	url = https://github.com/zakdances/MGit.git

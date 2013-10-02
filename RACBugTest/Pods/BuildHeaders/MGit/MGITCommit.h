@@ -1,0 +1,1 @@
+../../../submodules/MGit/MGITCommit.h
